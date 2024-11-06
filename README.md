@@ -89,10 +89,10 @@
 <body>
 
   <div class="dialog">
-    <img src="https://assets.onecompiler.app/42uh2pufm/42xa2um5k/IMG_20241106_082916.png" alt="Google Icon">
+    <img src="https://assets.onecompiler.app/42uh2pufm/42xa2um5k/IMG_20241106_082916.png" alt="Moogle Icon">
     <h2>Use strong password?</h2>
     <p>You won’t need to manually create your password. This is an alternative to Google Password Manager for <strong>example@gmail.com</strong>.</p>
-    <div class="password-display" id="passwordDisplay">Manish Barui</div>
+    <div class="password-display" id="passwordDisplay">Manish_Barui</div>
     <div class="button-group">
       <button class="generate-password-btn" onclick="generatePassword()">Generate Password</button>
       <button class="use-password-btn" onclick="usePassword()">Use Password</button>
